@@ -1,0 +1,16 @@
+# /home/hxl/miniconda3/envs/fishtaco/bin/run_fishtaco.py {'map_function_file': None, 'taxa_assessment_method': 'multi_taxa', 'map_function_level': 'none', 'function_abun_file': './data/Differente_Pathway_relative_abundance.txt', 'output_pref': 'Modules_Obesity', 'apply_inference': True, 'taxa_abun_file': './data/Diff_bacteria_abundance.txt', 'residual_mode': 'remove_residual', 'write_log': True, 'number_of_permutations': '100', 'class_file': './data/Sample_Class1.txt', 'max_da_functions_cases_controls': None, 'permutation_mode': 'blocks', 'normalization_mode': 'scale_permuted', 'multiple_hypothesis_correction': 'FDR-0.05', 'single_function_filter': None, 'functional_profile_already_corrected_with_musicc': True, 'da_result_file': None, 'number_of_shapley_orderings_per_taxa': '5', 'taxa_to_function_file': None, 'perform_inference_on_ko_level': False, 'control_label': '0', 'na_rep': 'NA', 'case_label': '1', 'max_score_cutoff': '100', 'score_to_compute': 'wilcoxon'}
+#DA functions:11 #Taxa:39 #Samples:862
+0:ko00040 took 1537.6635479927063 seconds to run.
+1:ko00051 took 1567.8977065086365 seconds to run.
+2:ko00130 took 1570.960881948471 seconds to run.
+3:ko00430 took 1565.420194864273 seconds to run.
+4:ko00480 took 1596.7552359104156 seconds to run.
+5:ko00531 took 1596.782235622406 seconds to run.
+6:ko00540 took 1570.3835654258728 seconds to run.
+7:ko00740 took 1572.2675411701202 seconds to run.
+8:ko00790 took 1576.9772148132324 seconds to run.
+9:ko04974 took 1561.1618492603302 seconds to run.
+10:ko05111 took 1536.2902481555939 seconds to run.
+----------------------------------------------
+Program completed successfully with no errors.
+----------------------------------------------

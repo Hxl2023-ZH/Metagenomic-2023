@@ -2,10 +2,11 @@
 ################################################################################
 #                     计算bacteriome和virome之间的相关性
 ################################################################################
+# XinLiang Hu
+# 2023-08-23
 
-#hxl
-setwd("C:/Users/huxin/Desktop/Final_result_analysys/14_Virome_Bacteris_Cor/family_species/Obesity/")
 ############################# 根据prevalence过滤原始数据 #######################
+setwd("C:/Users/huxin/Desktop/Final_result_analysys/14_Virome_Bacteris_Cor/family_species/Obesity/")
 bacteriome = read.table("total-7_species_lefse_0.txt", header = TRUE, sep = "\t", row.names = 1, stringsAsFactors = FALSE, check.names = F)
 bacteriome[1:5, 1:5]
 bacteriome1 <- bacteriome

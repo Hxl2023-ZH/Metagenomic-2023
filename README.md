@@ -5,11 +5,11 @@ functional changes in the gut microbiome in obesity remain to be comprehensively
 
 # Requirements
 
-1. Metaphlan3.0
+1. Metaphlan (v3.1.0)
 2. Megahit (v1.2.9)
 3. QUAST (v5.0.2)
-4. CD-HIT (v 4.8.1)
-5. SAMtools
+4. CD-HIT (v4.8.1)
+5. samtools (v1.13)
 6. EMBOSS (v6.6.0.0)
 7. eggNOG-Mapper (EggNOG db 5.0.2)
 8. Virsorter2 (v2.2.3)

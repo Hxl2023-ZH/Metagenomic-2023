@@ -8,8 +8,8 @@ functional changes in the gut microbiome in obesity remain to be comprehensively
 1. Metaphlan (v3.1.0)
 2. Megahit (v1.2.9)
 3. QUAST (v5.0.2)
-4. CD-HIT (v4.8.1)
-5. samtools (v1.13)
+4. Cd-hit (v4.8.1)
+5. SAMtools (v1.13)
 6. EMBOSS (v6.6.0.0)
 7. eggNOG-Mapper (EggNOG db 5.0.2)
 8. Virsorter2 (v2.2.3)
@@ -23,3 +23,6 @@ functional changes in the gut microbiome in obesity remain to be comprehensively
 
 
 
+# Citations
+
+Hu X, Yu C, He Y, Zhu S, Wang S, Xu Z, You S, Jiao Y, Liu SL, Bao H. Integrative metagenomic analysis reveals distinct gut microbial signatures related to obesity. BMC Microbiol. 2024 Apr 5;24(1):119. doi: 10.1186/s12866-024-03278-5. PMID: 38580930.
